@@ -1,3 +1,5 @@
 Hi !!
 
 new changes
+
+Writing into notepad from bash
